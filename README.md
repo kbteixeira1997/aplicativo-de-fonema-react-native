@@ -1,0 +1,1 @@
+# aplicativo-de-fonema-react-native
